@@ -1,0 +1,4 @@
+package: golang-example/golang-api-example
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.3.0
