@@ -1,0 +1,10 @@
+package: golang-example/contracts
+import:
+- package: github.com/ethereum/go-ethereum
+  subpackages:
+  - accounts/abi
+  - accounts/abi/bind
+  - common
+  - core/types
+  - ethclient
+  - event
