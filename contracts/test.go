@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"encoding/hex"
 	"fmt"
-	Contract "golang-example/golang-contract-example/contract"
+	Contract "golang-example/contracts/contract"
 	"log"
 	"os"
 
